@@ -1,0 +1,51 @@
+produto_id,nome,categoria,preco
+1,Blusa,Moda,91.3
+2,Calça,Moda,332.42
+3,Bola,Esporte,426.73
+4,Celular,Eletrônicos,1150.11
+5,Tablet,Eletrônicos,2180.84
+6,Fone de ouvido,Eletrônicos,417.52
+7,Sandália,Moda,81.64
+8,Escova,Beleza,66.19
+9,Vestido,Moda,215.84
+10,Perfume,Beleza,102.76
+11,Sofá,Casa,652.37
+12,Saia,Moda,209.17
+13,Camisa,Moda,254.11
+14,Tênis,Esporte,255.91
+15,Mouse,Eletrônicos,254.29
+16,Teclado,Eletrônicos,601.14
+17,Shampoo,Beleza,63.41
+18,Condicionador,Beleza,163.95
+19,Jaqueta,Moda,166.9
+20,Esmalte,Beleza,28.4
+21,Monitor,Eletrônicos,2430.62
+22,Base facial,Beleza,78.44
+23,Tapete,Casa,402.58
+24,Smartwatch,Eletrônicos,2213.87
+25,Luminária,Casa,743.52
+26,Batom,Beleza,132.96
+27,Chuteira,Esporte,374.8
+28,Blazer,Moda,389.93
+29,Controle remoto,Eletrônicos,778.41
+30,Aspirador,Casa,965.42
+31,Capacete,Esporte,295.67
+32,Mochila,Moda,188.79
+33,Carregador,Eletrônicos,836.63
+34,Câmera,Eletrônicos,2493.26
+35,Raquete,Esporte,447.12
+36,Calção,Moda,60.39
+37,Cropped,Moda,140.62
+38,Poltrona,Casa,886.67
+39,Cardigan,Moda,313.96
+40,Bicicleta,Esporte,521.98
+41,Step,Esporte,238.56
+42,Paleta de sombras,Beleza,91.77
+43,Luvas,Esporte,523.27
+44,Top,Moda,78.53
+45,Cadeira,Casa,619.03
+46,Hidratante,Beleza,165.49
+47,Macacão,Moda,127.62
+48,Prateleira,Casa,773.61
+49,Scarpin,Moda,192.88
+50,Delineador,Beleza,71.16
